@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.maleUserBox {
+  background-color: green;
+}
+
+.femaleUserBox {
+  background-color: pink;
+}
